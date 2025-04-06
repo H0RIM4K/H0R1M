@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/H0RIM4K/H0R1.git
